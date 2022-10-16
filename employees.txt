@@ -1,0 +1,8 @@
+Jim - Salesman
+Dwight - Salesman
+Pam - Receptionist
+Michael - Manager
+Oscar - Accountant
+Almir - Developer
+Almir - Developer
+Almir - Developer
